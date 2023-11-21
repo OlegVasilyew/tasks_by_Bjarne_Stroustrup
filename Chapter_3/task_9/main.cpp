@@ -61,4 +61,7 @@ int main()
 	char p[] = "iopkl";
 
 	catt(n, p);									//   Печатаем результат объединения строк n и p.
+
+	rev(n);
+	cout << n;
 }
